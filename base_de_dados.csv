@@ -1,0 +1,128 @@
+nome_do_estabelecimento,id_da_empresa,segmento,pico_horario_transacoes,tipo_transacao,data_hora,valor,porte_empresa,tempo_empresa_anos
+Padaria Pão Quente,749201,Alimentício,07:00-09:00,Débito,2025-07-02 08:10:15,22.50,Pequena,4
+Sapataria Passo Certo,492013,Varejo,16:00-18:00,Crédito,2025-07-02 17:30:40,179.90,Pequena,7
+Loja Estilo Moderno,193847,Varejo,17:00-19:00,PIX,2025-07-02 18:15:25,310.00,Média,9
+InovaTech Software,692018,Tecnologia,14:00-16:00,Crédito,2025-07-02 15:00:00,12500.00,Média,8
+Restaurante Sabor Divino,583920,Alimentício,12:00-14:00,Vale Refeição,2025-07-03 12:50:11,88.00,Pequena,6
+Agência de Viagens Mundo,602938,Serviços,16:00-18:00,Crédito,2025-07-03 16:20:00,4200.00,Média,12
+Eletrônicos Tech Point,602938,Varejo,14:00-16:00,Crédito,2025-07-03 22:10:05,1.25,Média,9
+Eletrônicos Tech Point,602938,Varejo,14:00-16:00,Crédito,2025-07-03 22:11:30,9850.00,Média,9
+Banco Futuro,482910,Serviços Financeiros,10:00-16:00,PIX,2025-07-03 11:45:30,15000.00,Grande,26
+Magazine Casa Feliz,302918,Varejo,18:00-20:00,Crédito,2025-07-03 19:05:12,750.00,Grande,19
+Padaria Pão Quente,749201,Alimentício,07:00-09:00,Crédito,2025-07-04 02:45:10,8540.00,Pequena,4
+Supermercado Preço Bom,829103,Alimentício,19:00-21:00,Débito,2025-07-04 09:30:15,312.40,Grande,23
+Sapataria Passo Certo,492013,Varejo,16:00-18:00,PIX,2025-07-04 10:31:15,112.50,Pequena,7
+Sapataria Passo Certo,492013,Varejo,16:00-18:00,PIX,2025-07-04 10:31:48,112.50,Pequena,7
+Sapataria Passo Certo,492013,Varejo,16:00-18:00,PIX,2025-07-04 10:32:05,112.50,Pequena,7
+Sapataria Passo Certo,492013,Varejo,16:00-18:00,PIX,2025-07-04 10:32:31,112.50,Pequena,7
+Restaurante Sabor Divino,583920,Alimentício,12:00-14:00,Débito,2025-07-04 03:15:22,230.80,Pequena,6
+Banco Futuro,482910,Serviços Financeiros,10:00-16:00,Vale Refeição,2025-07-04 10:50:00,150.00,Grande,26
+Loja Estilo Moderno,193847,Varejo,17:00-19:00,Débito,2025-07-04 11:20:50,95.00,Média,9
+Magazine Casa Feliz,302918,Varejo,18:00-20:00,PIX,2025-07-04 23:58:10,6740.00,Grande,19
+Restaurante Sabor Divino,583920,Alimentício,12:00-14:00,Vale Refeição,2025-07-04 13:10:00,4950.00,Pequena,6
+Padaria Pão Quente,749201,Alimentício,07:00-09:00,Débito,2025-07-02 08:10:15,22.50,Pequena,4
+Sapataria Passo Certo,492013,Varejo,16:00-18:00,Crédito,2025-07-02 17:30:40,179.90,Pequena,7
+Loja Estilo Moderno,193847,Varejo,17:00-19:00,PIX,2025-07-02 18:15:25,310.00,Média,9
+InovaTech Software,692018,Tecnologia,14:00-16:00,Crédito,2025-07-02 15:00:00,12500.00,Média,8
+Restaurante Sabor Divino,583920,Alimentício,12:00-14:00,Vale Refeição,2025-07-03 12:50:11,88.00,Pequena,6
+Agência de Viagens Mundo,602938,Serviços,16:00-18:00,Crédito,2025-07-03 16:20:00,4200.00,Média,12
+Eletrônicos Tech Point,602938,Varejo,14:00-16:00,Crédito,2025-07-03 22:10:05,1.25,Média,9
+Eletrônicos Tech Point,602938,Varejo,14:00-16:00,Crédito,2025-07-03 22:11:30,9850.00,Média,9
+Banco Futuro,482910,Serviços Financeiros,10:00-16:00,PIX,2025-07-03 11:45:30,15000.00,Grande,26
+Magazine Casa Feliz,302918,Varejo,18:00-20:00,Crédito,2025-07-03 19:05:12,750.00,Grande,19
+Padaria Pão Quente,749201,Alimentício,07:00-09:00,Crédito,2025-07-04 02:45:10,8540.00,Pequena,4
+Supermercado Preço Bom,829103,Alimentício,19:00-21:00,Débito,2025-07-04 09:30:15,312.40,Grande,23
+Sapataria Passo Certo,492013,Varejo,16:00-18:00,PIX,2025-07-04 10:31:15,112.50,Pequena,7
+Sapataria Passo Certo,492013,Varejo,16:00-18:00,PIX,2025-07-04 10:31:48,112.50,Pequena,7
+Sapataria Passo Certo,492013,Varejo,16:00-18:00,PIX,2025-07-04 10:32:05,112.50,Pequena,7
+Sapataria Passo Certo,492013,Varejo,16:00-18:00,PIX,2025-07-04 10:32:31,112.50,Pequena,7
+Restaurante Sabor Divino,583920,Alimentício,12:00-14:00,Débito,2025-07-04 03:15:22,230.80,Pequena,6
+Banco Futuro,482910,Serviços Financeiros,10:00-16:00,Vale Refeição,2025-07-04 10:50:00,150.00,Grande,26
+Loja Estilo Moderno,193847,Varejo,17:00-19:00,Débito,2025-07-04 11:20:50,95.00,Média,9
+Magazine Casa Feliz,302918,Varejo,18:00-20:00,PIX,2025-07-04 23:58:10,6740.00,Grande,19
+Restaurante Sabor Divino,583920,Alimentício,12:00-14:00,Vale Refeição,2025-07-04 13:10:00,4950.00,Pequena,6
+Padaria Pão Quente,749201,Alimentício,07:00-09:00,Débito,2025-07-03 08:15:22,19.80,Pequena,4
+Sapataria Passo Certo,492013,Varejo,16:00-18:00,Crédito,2025-07-03 16:55:10,210.50,Pequena,7
+Loja Estilo Moderno,193847,Varejo,17:00-19:00,Débito,2025-07-03 17:40:00,155.00,Média,9
+InovaTech Software,692018,Tecnologia,14:00-16:00,Crédito,2025-07-03 09:30:15,2500.00,Média,8
+InovaTech Software,692018,Tecnologia,14:00-16:00,Crédito,2025-07-03 09:30:45,2500.00,Média,8
+InovaTech Software,692018,Tecnologia,14:00-16:00,Crédito,2025-07-03 09:31:05,2500.00,Média,8
+Restaurante Sabor Divino,583920,Alimentício,12:00-14:00,PIX,2025-07-03 20:30:11,115.40,Pequena,6
+Agência de Viagens Mundo,602938,Serviços,16:00-18:00,Débito,2025-07-03 11:10:20,3800.00,Média,12
+Eletrônicos Tech Point,602938,Varejo,14:00-16:00,PIX,2025-07-03 15:25:00,1890.00,Média,9
+Banco Futuro,482910,Serviços Financeiros,10:00-16:00,PIX,2025-07-03 14:00:00,22100.00,Grande,26
+Magazine Casa Feliz,302918,Varejo,18:00-20:00,Débito,2025-07-03 11:33:41,430.20,Grande,19
+Supermercado Preço Bom,829103,Alimentício,19:00-21:00,Crédito,2025-07-03 19:10:25,355.80,Grande,23
+Loja Estilo Moderno,193847,Varejo,17:00-19:00,PIX,2025-07-04 03:30:00,310.00,Média,9
+Padaria Pão Quente,749201,Alimentício,07:00-09:00,Débito,2025-07-04 07:55:00,28.70,Pequena,4
+Sapataria Passo Certo,492013,Varejo,16:00-18:00,Débito,2025-07-04 11:05:18,165.00,Pequena,7
+Restaurante Sabor Divino,583920,Alimentício,12:00-14:00,Crédito,2025-07-04 12:40:00,92.30,Pequena,6
+Agência de Viagens Mundo,602938,Serviços,16:00-18:00,Crédito,2025-07-04 04:10:00,150000.00,Média,12
+Supermercado Preço Bom,829103,Alimentício,19:00-21:00,Débito,2025-07-03 10:00:30,128.50,Grande,23
+Banco Futuro,482910,Serviços Financeiros,10:00-16:00,Crédito,2025-07-03 15:10:10,3000.00,Grande,26
+Loja Estilo Moderno,193847,Varejo,17:00-19:00,Crédito,2025-07-03 18:00:50,450.00,Média,9
+InovaTech Software,692018,Tecnologia,14:00-16:00,PIX,2025-07-03 14:30:10,800.00,Média,8
+Restaurante Sabor Divino,583920,Alimentício,12:00-14:00,Débito,2025-07-03 13:05:00,65.50,Pequena,6
+Padaria Pão Quente,749201,Alimentício,07:00-09:00,PIX,2025-07-04 08:30:00,15.00,Pequena,4
+Eletrônicos Tech Point,602938,Varejo,14:00-16:00,Crédito,2025-07-04 11:15:10,12800.00,Média,9
+Agência de Viagens Mundo,602938,Serviços,16:00-18:00,Crédito,2025-07-04 11:17:45,15300.00,Média,12
+Magazine Casa Feliz,302918,Varejo,18:00-20:00,PIX,2025-07-03 20:00:10,890.00,Grande,19
+Supermercado Preço Bom,829103,Alimentício,19:00-21:00,Crédito,2025-07-04 02:15:00,890.45,Grande,23
+Sapataria Passo Certo,492013,Varejo,16:00-18:00,Crédito,2025-07-03 17:10:20,180.00,Pequena,7
+Banco Futuro,482910,Serviços Financeiros,10:00-16:00,Débito,2025-07-03 13:20:00,50.00,Grande,26
+InovaTech Software,692018,Tecnologia,14:00-16:00,PIX,2025-07-04 10:10:10,9500.00,Média,8
+Padaria Pão Quente,749201,Alimentício,07:00-09:00,Débito,2025-07-03 18:05:00,32.00,Pequena,4
+Restaurante Sabor Divino,583920,Alimentício,12:00-14:00,PIX,2025-07-04 13:30:00,75.00,Pequena,6
+Eletrônicos Tech Point,602938,Varejo,14:00-16:00,Débito,2025-07-03 14:55:00,350.00,Média,9
+Loja Estilo Moderno,193847,Varejo,17:00-19:00,PIX,2025-07-04 09:10:05,0.80,Média,9
+Loja Estilo Moderno,193847,Varejo,17:00-19:00,Crédito,2025-07-04 09:11:15,7200.00,Média,9
+Magazine Casa Feliz,302918,Varejo,18:00-20:00,Crédito,2025-07-04 10:30:00,1250.00,Grande,19
+Agência de Viagens Mundo,602938,Serviços,16:00-18:00,Débito,2025-07-03 17:00:30,5500.00,Média,12
+Sapataria Passo Certo,492013,Varejo,16:00-18:00,PIX,2025-07-04 10:40:00,99.90,Pequena,7
+Supermercado Preço Bom,829103,Alimentício,19:00-21:00,Vale Refeição,2025-07-03 12:30:00,215.30,Grande,23
+Banco Futuro,482910,Serviços Financeiros,10:00-16:00,PIX,2025-07-04 11:25:00,99000.00,Grande,26
+Padaria Pão Quente,749201,Alimentício,07:00-09:00,PIX,2025-07-03 09:00:10,25.00,Pequena,4
+InovaTech Software,692018,Tecnologia,14:00-16:00,PIX,2025-07-03 15:50:00,1800.00,Média,8
+Restaurante Sabor Divino,583920,Alimentício,12:00-14:00,Crédito,2025-07-03 21:00:40,250.00,Pequena,6
+Loja Estilo Moderno,193847,Varejo,17:00-19:00,Débito,2025-07-03 19:15:00,180.00,Média,9
+Eletrônicos Tech Point,602938,Varejo,14:00-16:00,PIX,2025-07-04 10:05:00,2300.00,Média,9
+Magazine Casa Feliz,302918,Varejo,18:00-20:00,Crédito,2025-07-03 14:00:20,299.90,Grande,19
+Agência de Viagens Mundo,602938,Serviços,16:00-18:00,Crédito,2025-07-04 09:50:00,8900.00,Média,12
+Sapataria Passo Certo,492013,Varejo,16:00-18:00,Crédito,2025-07-03 11:40:10,250.00,Pequena,7
+Supermercado Preço Bom,829103,Alimentício,19:00-21:00,PIX,2025-07-04 11:00:00,180.60,Grande,23
+Banco Futuro,482910,Serviços Financeiros,10:00-16:00,Crédito,2025-07-03 12:00:00,45000.00,Grande,26
+InovaTech Software,692018,Tecnologia,14:00-16:00,Débito,2025-07-04 11:30:00,600.00,Média,8
+Padaria Pão Quente,749201,Alimentício,07:00-09:00,Débito,2025-07-04 10:20:00,18.50,Pequena,4
+Restaurante Sabor Divino,583920,Alimentício,12:00-14:00,Crédito,2025-07-03 14:10:00,120.00,Pequena,6
+Loja Estilo Moderno,193847,Varejo,17:00-19:00,Crédito,2025-07-04 11:35:00,320.00,Média,9
+Eletrônicos Tech Point,602938,Varejo,14:00-16:00,Débito,2025-07-03 16:00:00,150.00,Média,9
+Magazine Casa Feliz,302918,Varejo,18:00-20:00,PIX,2025-07-04 11:36:00,500.00,Grande,19
+Agência de Viagens Mundo,602938,Serviços,16:00-18:00,PIX,2025-07-03 10:45:00,6000.00,Média,12
+Sapataria Passo Certo,492013,Varejo,16:00-18:00,Débito,2025-07-04 09:00:00,80.00,Pequena,7
+Supermercado Preço Bom,829103,Alimentício,19:00-21:00,Crédito,2025-07-03 20:30:00,450.00,Grande,23
+Banco Futuro,482910,Serviços Financeiros,10:00-16:00,Débito,2025-07-04 10:00:00,1000.00,Grande,26
+InovaTech Software,692018,Tecnologia,14:00-16:00,Crédito,2025-07-03 11:00:00,15000.00,Média,8
+Padaria Pão Quente,749201,Alimentício,07:00-09:00,Crédito,2025-07-04 09:45:00,22.00,Pequena,4
+Restaurante Sabor Divino,583920,Alimentício,12:00-14:00,Débito,2025-07-03 19:30:00,180.00,Pequena,6
+Loja Estilo Moderno,193847,Varejo,17:00-19:00,PIX,2025-07-04 11:37:00,210.00,Média,9
+Eletrônicos Tech Point,602938,Varejo,14:00-16:00,Crédito,2025-07-03 17:30:00,5000.00,Média,9
+Magazine Casa Feliz,302918,Varejo,18:00-20:00,Débito,2025-07-04 08:30:00,650.00,Grande,19
+Agência de Viagens Mundo,602938,Serviços,16:00-18:00,Débito,2025-07-03 13:00:00,2500.00,Média,12
+Sapataria Passo Certo,492013,Varejo,16:00-18:00,PIX,2025-07-04 11:15:00,150.00,Pequena,7
+Supermercado Preço Bom,829103,Alimentício,19:00-21:00,Débito,2025-07-04 11:20:00,300.00,Grande,23
+Banco Futuro,482910,Serviços Financeiros,10:00-16:00,Crédito,2025-07-03 16:30:00,75000.00,Grande,26
+InovaTech Software,692018,Tecnologia,14:00-16:00,Débito,2025-07-04 09:20:00,3400.00,Média,8
+Padaria Pão Quente,749201,Alimentício,07:00-09:00,PIX,2025-07-03 17:00:00,45.00,Pequena,4
+Restaurante Sabor Divino,583920,Alimentício,12:00-14:00,Débito,2025-07-04 12:10:00,85.00,Pequena,6
+Loja Estilo Moderno,193847,Varejo,17:00-19:00,Crédito,2025-07-03 10:00:00,800.00,Média,9
+Eletrônicos Tech Point,602938,Varejo,14:00-16:00,Débito,2025-07-04 11:32:00,450.00,Média,9
+Magazine Casa Feliz,302918,Varejo,18:00-20:00,PIX,2025-07-03 13:45:00,120.00,Grande,19
+Agência de Viagens Mundo,602938,Serviços,16:00-18:00,Crédito,2025-07-04 11:34:00,7800.00,Média,12
+Sapataria Passo Certo,492013,Varejo,16:00-18:00,Débito,2025-07-03 15:00:00,200.00,Pequena,7
+Supermercado Preço Bom,829103,Alimentício,19:00-21:00,Crédito,2025-07-04 11:35:00,550.00,Grande,23
+Banco Futuro,482910,Serviços Financeiros,10:00-16:00,PIX,2025-07-03 09:30:00,120000.00,Grande,26
+InovaTech Software,692018,Tecnologia,14:00-16:00,PIX,2025-07-04 08:55:00,2200.00,Média,8
+Padaria Pão Quente,749201,Alimentício,07:00-09:00,Crédito,2025-07-03 12:00:00,12.00,Pequena,4
+Restaurante Sabor Divino,583920,Alimentício,12:00-14:00,PIX,2025-07-04 11:36:30,95.50,Pequena,6
+Loja Estilo Moderno,193847,Varejo,17:00-19:00,Débito,2025-07-03 16:20:00,300.00,Média,9
+Eletrônicos Tech Point,602938,Varejo,14:00-16:00,Crédito,2025-07-04 11:37:10,880.00,Média,9
