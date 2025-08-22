@@ -1,4 +1,6 @@
-🚨 Detector Inteligente de Fraudes com IA
+### 🚨 Detector Inteligente de Fraudes com IA
+
+---
 
 Nos últimos anos, bancos — sejam digitais ou tradicionais — têm enfrentado um crescimento exponencial nas tentativas de fraude.
 Uso indevido de cartões, chargebacks recorrentes, transações fora de hora e valores atípicos são apenas alguns dos desafios que ameaçam a segurança do sistema financeiro e colocam em risco tanto a confiança do cliente quanto a saúde das instituições.
