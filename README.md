@@ -1,35 +1,57 @@
-### 🚨 Detector Inteligente de Fraudes com IA
+# 🚨 Detector Inteligente de Fraudes com IA  
+
+Este projeto apresenta um **protótipo interativo** para **detecção de transações suspeitas** em bancos digitais e tradicionais, unindo **Inteligência Artificial** e **regras de negócio**.  
 
 ---
 
-Nos últimos anos, bancos — sejam digitais ou tradicionais — têm enfrentado um crescimento exponencial nas tentativas de fraude.
-Uso indevido de cartões, chargebacks recorrentes, transações fora de hora e valores atípicos são apenas alguns dos desafios que ameaçam a segurança do sistema financeiro e colocam em risco tanto a confiança do cliente quanto a saúde das instituições.
+## 💼 Por que esse projeto?  
 
-Pensando nisso, desenvolvi um protótipo interativo com IA e Streamlit para atuar na detecção inteligente de transações suspeitas em tempo real.
+O setor bancário enfrenta diariamente:  
+- Uso indevido de cartões e contas;  
+- Chargebacks recorrentes;  
+- Transações fora do perfil esperado (horário, valor, histórico da empresa).  
 
-🔎 Como funciona:
+Esses problemas afetam tanto **bancos digitais** (com alto volume de operações em tempo real) quanto **bancos tradicionais**, que precisam lidar com diferentes canais (agência, internet banking, POS).  
 
-Utiliza o modelo Isolation Forest (PyOD) para identificar padrões anômalos;
+**Consequências:**  
+- 📉 Perdas financeiras significativas  
+- ❌ Queda na confiança do cliente  
+- 💸 Aumento do custo operacional  
 
-Aplica regras de negócio específicas, como:
+---
 
-Transações de altíssimo valor;
+## 🧠 O que o sistema faz  
 
-Empresas muito novas realizando operações elevadas;
+- **Carregamento de dados (CSV)** de transações  
+- **Detecção de anomalias via IA** com Isolation Forest (PyOD)  
+- **Regras adicionais de negócio**:  
+  - Transações acima do percentil 99 (altíssimo valor)  
+  - Empresas novas (< 2 anos) com valores elevados  
+  - Transações noturnas (> R$ 500 entre 00:00–06:00)  
+- **Visualizações interativas**:  
+  - Distribuição de fraudes por segmento  
+  - Dispersão entre valor da transação e tempo de empresa  
+- **Exportação das suspeitas em CSV**  
 
-Movimentações noturnas fora do padrão.
+---
 
-Gera alertas, visualizações e métricas para apoiar a tomada de decisão.
+## 📊 Impacto esperado  
 
-📊 Impacto esperado:
+- 🔐 Redução de perdas com fraudes e chargebacks  
+- 🤝 Maior segurança e confiança para clientes  
+- ⚡ Agilidade para times de risco, com foco nos casos críticos  
+- 🎯 Menos falsos positivos, melhorando a experiência do usuário  
 
-✔️ Reduzir perdas financeiras com fraudes;
-✔️ Proteger clientes e fortalecer a confiança no sistema bancário;
-✔️ Dar mais agilidade aos times de prevenção de risco, que passam a ter uma visão clara e visual das anomalias;
-✔️ Aumentar a competitividade dos bancos digitais, que precisam lidar com milhões de transações diárias em tempo real.
+---
 
-⚙️ Tecnologias utilizadas:
+## ⚙️ Tecnologias utilizadas  
 
-Python | Streamlit | PyOD | Scikit-Learn | Pandas | Seaborn | Matplotlib
+- **Python**  
+- **Streamlit** (dashboard interativo)  
+- **PyOD (Isolation Forest)**  
+- **Pandas**, **Scikit-Learn**  
+- **Seaborn**, **Matplotlib**  
 
-💡 Esse projeto mostra como a IA pode transformar a prevenção a fraudes, tornando-se uma aliada essencial para instituições financeiras que buscam mais segurança e credibilidade em um cenário cada vez mais digital.
+---
+
+💡 Este projeto mostra como **IA aliada a regras inteligentes** pode apoiar bancos a **prevenir fraudes em tempo real**, equilibrando **segurança, eficiência operacional e experiência do cliente**.  
